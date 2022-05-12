@@ -41,6 +41,7 @@ function myPeersNames() {
     const names = ["Olayinka Bakare", "Victoria Abodunrin", "Victor Olorunsola",
                 "Unyime Usen", "Segun Alofun", "Omokolade Abisoye", 
                 "Oluwasegun Mesaiyete", "Okeyemi Henry", "Ojezele Edobo", "Foluso Ojo"]
+    console.log(names)
 }
 myPeersNames()
 
